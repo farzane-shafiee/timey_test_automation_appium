@@ -1,0 +1,12 @@
+deviceName: "52c97a2c"
+platformName: "Android"
+platformVersion: "13"
+appium:automationName: "UiAutomator2"
+app: "/home/farzan/Documents/app.apk"
+#appPackage: "ir.timey.app"
+#appActivity: "ir.timey.app.activity.LoginActivity"
+#"appium:ignoreHiddenApiPolicyError": "true"
+#"appium:noReset": "true"
+#app: "/run/user/1000/gvfs/mtp:host=Xiaomi_POCO_F3_52c97a2c/Internal shared storage/Pictures/app.apk"
+
+
