@@ -5,10 +5,7 @@ less_char_otp:
   "123"
 
 more_char_otp:
-  "123"
+  "123456"
 
 invalid_otp:
-  "123"
-
-valid_otp:
-  "123"
+  "12345"

@@ -30,4 +30,3 @@ class LoginComponyPageAction:
     #         return element
     #     else:
     #         return ""
-
